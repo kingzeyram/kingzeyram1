@@ -1,7 +1,7 @@
 - 👋 Hi, I’m lungaho ramsey
 - 👀 I’m interested in ...everything programming
-- 🌱 I’m currently learning ...next.js
-- 💞️ I’m looking to collaborate on ...flutter
+- 🌱 on a learning path
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...lungahoramsey2005@gmail.com
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ...i love coding
